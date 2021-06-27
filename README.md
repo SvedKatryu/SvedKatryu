@@ -14,10 +14,10 @@ Skills:  Python / PostgreSQL / Jupiter Notebook / SQL / Pivot table / Pandas / �
 
 За время обучения в Яндекс.Практикум выполнила самостоятельные проекты:
 ### Исследование надежности заемщиков
-- https://github.com/SvedKatryu/borrower-reliability
+- https://github.com/SvedKatryu/yandex-praktikum-projects/tree/main/Borrower-reability
 
 ### А-В тестирование
-- https://github.com/SvedKatryu/AB_test
+- https://github.com/SvedKatryu/yandex-praktikum-projects/tree/main/AB_test
 
 ### Определение перспективного тарифа для Телеком Компании
-- https://github.com/SvedKatryu/Determining-a-tariff
+- https://github.com/SvedKatryu/yandex-praktikum-projects/tree/main/Determining-a-tariff
