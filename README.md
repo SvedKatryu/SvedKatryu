@@ -2,17 +2,17 @@
 
 #### Я Java-разработчик
 
-Skills: Java Core, Структуры данных, Алгоритмы, PostgreSQL, Hibernate, Unit-тестирование, Spring, Spring Boot, REST API, Docker, Lombok, Mock-тестирование, Maven, Git, Postman.
+Tech Stack: Java Core, Структуры данных, Алгоритмы, Spring, Spring Boot, Hibernate, Lombok, Unit-тестирование, Mock-тестирование, REST API, Docker, PostgreSQL, Maven, Git, Postman.
 
 - 👯 Мечтаю работать и развиваться в команде профессионалов
-- 📫 Вы можете связаться со мной: Telegram: @ShvedKatryu Почта: ShvedKatryu@yandex.ru
+- 📫 Вы можете связаться со мной: Telegram: @ShvedKatryu  Почта: ShvedKatryu@yandex.ru
 
-За время обучения в Яндекс.Практикум выполнила самостоятельные проекты:
-### Исследование надежности заемщиков
-- https://github.com/SvedKatryu/yandex-praktikum-projects/tree/main/Borrower-reability
+## Основные проекты: 
+#### Микросервисное приложение для аренды вещей 
+- https://github.com/SvedKatryu/java-shareit
 
-### А-В тестирование
-- https://github.com/SvedKatryu/yandex-praktikum-projects/tree/main/AB_test
+#### Микросервисное приложение, которое умеет обрабатывать и хранить данные о пользователях и их любимых фильмах 
+- https://github.com/SvedKatryu/java-filmorate
 
-### Определение перспективного тарифа для Телеком Компании
-- https://github.com/SvedKatryu/yandex-praktikum-projects/tree/main/Determining-a-tariff
+#### Микросервисное приложение, которое позволяет пользователям делиться информацией об интересных событиях и находить компанию для участия в них 
+- https://github.com/SvedKatryu/java-explore-with-me
